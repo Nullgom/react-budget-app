@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-budget-app/static/css/main.d75aa5e2.css",
+    "main.js": "/react-budget-app/static/js/main.7ea1843c.js",
+    "static/js/787.719302a4.chunk.js": "/react-budget-app/static/js/787.719302a4.chunk.js",
+    "index.html": "/react-budget-app/index.html",
+    "main.d75aa5e2.css.map": "/react-budget-app/static/css/main.d75aa5e2.css.map",
+    "main.7ea1843c.js.map": "/react-budget-app/static/js/main.7ea1843c.js.map",
+    "787.719302a4.chunk.js.map": "/react-budget-app/static/js/787.719302a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d75aa5e2.css",
+    "static/js/main.7ea1843c.js"
+  ]
+}
